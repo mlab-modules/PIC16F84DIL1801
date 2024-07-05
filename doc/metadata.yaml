@@ -3,6 +3,7 @@ github_branch: PIC16F84DIL1801A
 github_repo: PIC16F84DIL1801
 github_url: https://github.com/mlab-modules/PIC16F84DIL1801
 homepage: false
+image_title: doc/img/PIC16F84DIL18.jpg
 images:
 - doc/img/PIC16F84SO18.jpg
 - doc/img/PIC16F84DIL1801A_small.jpg
